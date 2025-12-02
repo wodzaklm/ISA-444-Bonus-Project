@@ -42,8 +42,11 @@ This application contains various time series forecasting models from the follow
 ## Example of Data Format:
 unique_id, ds, y
 series1, 2025-12-2, 444
+
 series2, 2025-12-3, 414
+
 series3, 2025-12-4, 404
+
 
 ## About StatsForeacst
 StatsForecast is a Python library that provides statistical forecasting algorithms for time series data. It is fast and scalable and offers many classical forecasting methods.
