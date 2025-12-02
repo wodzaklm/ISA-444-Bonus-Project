@@ -41,6 +41,7 @@ This application contains various time series forecasting models from the follow
 
 ## Example of Data Format:
 unique_id, ds, y
+
 series1, 2025-12-2, 444
 
 series2, 2025-12-3, 414
